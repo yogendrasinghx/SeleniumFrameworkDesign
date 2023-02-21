@@ -1,8 +1,8 @@
-/Users/yogen/Desktop/SDET/eclipse_workspace/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/Header.java
-/Users/yogen/Desktop/SDET/eclipse_workspace/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/AbstractComponents/AbstractComponent.java
-/Users/yogen/Desktop/SDET/eclipse_workspace/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/PaymentPage.java
-/Users/yogen/Desktop/SDET/eclipse_workspace/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/resources/ExtentReporterNG.java
-/Users/yogen/Desktop/SDET/eclipse_workspace/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/LandingPage.java
-/Users/yogen/Desktop/SDET/eclipse_workspace/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/ConfirmationPage.java
-/Users/yogen/Desktop/SDET/eclipse_workspace/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/ProductCatalogue.java
-/Users/yogen/Desktop/SDET/eclipse_workspace/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/CartPage.java
+/Users/yogen/Desktop/SDET/eclipse_workspace/github/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/ConfirmationPage.java
+/Users/yogen/Desktop/SDET/eclipse_workspace/github/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/CartPage.java
+/Users/yogen/Desktop/SDET/eclipse_workspace/github/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/ProductCatalogue.java
+/Users/yogen/Desktop/SDET/eclipse_workspace/github/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/AbstractComponents/AbstractComponent.java
+/Users/yogen/Desktop/SDET/eclipse_workspace/github/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/PaymentPage.java
+/Users/yogen/Desktop/SDET/eclipse_workspace/github/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/LandingPage.java
+/Users/yogen/Desktop/SDET/eclipse_workspace/github/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/Header.java
+/Users/yogen/Desktop/SDET/eclipse_workspace/github/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/resources/ExtentReporterNG.java

@@ -36,7 +36,7 @@ public class BaseTest {
 	public WebDriver initializeDriver() throws IOException {
 		
 		Properties prop = new Properties();
-		FileInputStream fin = new FileInputStream("//Users//yogen//Desktop//SDET//eclipse_workspace//SeleniumFrameworkDesign//src//main//java//rahulshettyacademy//resources//GlobalData.properties");
+		FileInputStream fin = new FileInputStream(System.getProperty("user.dir")+"//src//main//java//rahulshettyacademy//resources//GlobalData.properties");
 		prop.load(fin);
 		
 		

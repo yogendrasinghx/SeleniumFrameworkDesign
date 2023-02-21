@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-21T15:19:48 IST" name="Default suite" finished-at="2023-02-21T15:19:59 IST" duration-ms="10818">
+  <suite started-at="2023-02-21T16:29:34 IST" name="Suite" finished-at="2023-02-21T16:29:41 IST" duration-ms="6912">
     <groups>
     </groups>
-    <test started-at="2023-02-21T15:19:48 IST" name="Default test" finished-at="2023-02-21T15:19:59 IST" duration-ms="10818">
+    <test started-at="2023-02-21T16:29:34 IST" name="Test" finished-at="2023-02-21T16:29:41 IST" duration-ms="6912">
       <class name="rahulshettyacademy.tests.ErrorValidationsTest">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@229c6181]" started-at="2023-02-21T15:19:48 IST" name="launchApplication" finished-at="2023-02-21T15:19:52 IST" duration-ms="4085" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@19e4fcac]" started-at="2023-02-21T16:29:34 IST" name="launchApplication" finished-at="2023-02-21T16:29:37 IST" duration-ms="2923" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="errorValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@229c6181]" started-at="2023-02-21T15:19:52 IST" name="errorValidation" data-provider="getData" finished-at="2023-02-21T15:19:52 IST" duration-ms="316" status="PASS">
+        <test-method signature="errorValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@19e4fcac]" started-at="2023-02-21T16:29:37 IST" name="errorValidation" data-provider="getData" finished-at="2023-02-21T16:29:37 IST" duration-ms="299" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -32,15 +32,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- errorValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@229c6181]" started-at="2023-02-21T15:19:52 IST" name="tearDown" finished-at="2023-02-21T15:19:53 IST" duration-ms="298" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@19e4fcac]" started-at="2023-02-21T16:29:37 IST" name="tearDown" finished-at="2023-02-21T16:29:37 IST" duration-ms="170" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@229c6181]" started-at="2023-02-21T15:19:53 IST" name="launchApplication" finished-at="2023-02-21T15:19:58 IST" duration-ms="5502" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@19e4fcac]" started-at="2023-02-21T16:29:37 IST" name="launchApplication" finished-at="2023-02-21T16:29:40 IST" duration-ms="2446" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="errorValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@229c6181]" started-at="2023-02-21T15:19:58 IST" name="errorValidation" data-provider="getData" finished-at="2023-02-21T15:19:58 IST" duration-ms="316" status="PASS">
+        <test-method signature="errorValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@19e4fcac]" started-at="2023-02-21T16:29:40 IST" name="errorValidation" data-provider="getData" finished-at="2023-02-21T16:29:41 IST" duration-ms="836" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,11 +61,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- errorValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@229c6181]" started-at="2023-02-21T15:19:58 IST" name="tearDown" finished-at="2023-02-21T15:19:59 IST" duration-ms="278" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@19e4fcac]" started-at="2023-02-21T16:29:41 IST" name="tearDown" finished-at="2023-02-21T16:29:41 IST" duration-ms="215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- rahulshettyacademy.tests.ErrorValidationsTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
